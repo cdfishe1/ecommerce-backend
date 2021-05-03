@@ -1,5 +1,5 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "ecommerce-backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -14,7 +14,7 @@
     "url": "https://github.com/cdfishe1/ecommerce-backend.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Charles Fisher",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
