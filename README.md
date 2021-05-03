@@ -17,7 +17,7 @@ This is a node.js backend for an e-commerce site utilizing mysql2, sequalize, an
 ## Ecommerce Backend Demo
 
 ### YouTube video demonstration
-[YouTube Video](https://www.youtube.com/watch?v=GUIS7AlGteI/)
+[YouTube Video](https://youtu.be/V9Uxh-zEuZI)
 
 ## Repository
 
